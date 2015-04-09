@@ -1,0 +1,6 @@
+name: UnbreakingAnvils
+version: 1.0.0
+description: Prevent Anvils from breaking.
+author: moltendorf
+website: http://dev.bukkit.org/server-mods/moltendorf-unbreakinganvils/
+main: net.moltendorf.Bukkit.UnbreakingAnvils.Plugin
